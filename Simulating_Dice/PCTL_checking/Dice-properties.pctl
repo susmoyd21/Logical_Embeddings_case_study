@@ -1,0 +1,12 @@
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_1")& P>=1[X("bot"&true)])]
+
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_2")& P>=1[X("bot"&true)])]
+
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_3")& P>=1[X("bot"&true)])]
+
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_4")& P>=1[X("bot"&true)])]
+
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_5")& P>=1[X("bot"&true)])]
+
+P=?[(("bot"&true)|(!("bot")&("flip_true"|"flip_false")))U((!("bot")&"dice_6")& P>=1[X("bot"&true)])]
+
