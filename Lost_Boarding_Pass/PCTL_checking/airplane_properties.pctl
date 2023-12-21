@@ -1,4 +1,0 @@
-P=? [ (("bot"&true)|(!("bot")&("enter"|"enter_plane_true_false"|"enter_plane_false_true"|"enter_plane_false_false"))) U ((!("bot")&"last_passenger_has_his_own_seat_true")&P>=1 [ X ("bot"&true) ]) ]
-
-P=? [ (("bot"&true)|(!("bot")&("enter"|"enter_plane_true_false"|"enter_plane_false_true"|"enter_plane_false_false"))) U ((!("bot")&"last_passenger_has_his_own_seat_false")&P>=1 [ X ("bot"&true) ]) ]
-
